@@ -1,0 +1,8 @@
+# PlatformIO / ESP-IDF 构建时自动生成,无需提交
+.pio/
+build/
+sdkconfig.*
+CMakeLists.txt
+src/CMakeLists.txt
+dependencies.lock
+managed_components/
